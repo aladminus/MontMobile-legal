@@ -16,7 +16,7 @@ TheFuel is a personal vehicle fuel and expense tracking app for iOS and Android.
 
 ## 2. Your Account
 
-You are responsible for maintaining the security of your account and for all activity that occurs under it. Notify us immediately at [aladminus@gmail.com](mailto:aladminus@gmail.com) if you suspect unauthorised access.
+You are responsible for maintaining the security of your account and for all activity that occurs under it. Notify us immediately at [montmobile.legal@gmail.com](mailto:montmobile.legal@gmail.com) if you suspect unauthorised access.
 
 ---
 
@@ -74,7 +74,7 @@ These Terms are governed by the laws of the Czech Republic, without regard to co
 
 ## 11. Contact
 
-Questions about these Terms? Contact us at [aladminus@gmail.com](mailto:aladminus@gmail.com).
+Questions about these Terms? Contact us at [montmobile.legal@gmail.com](mailto:montmobile.legal@gmail.com).
 
 ---
 
