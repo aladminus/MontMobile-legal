@@ -67,7 +67,7 @@ You have the right to:
 
 Delete your account directly from within the app via **Settings → Delete account**. All associated data is permanently deleted within 30 days.
 
-Alternatively, email [aladminus@gmail.com](mailto:aladminus@gmail.com) with the subject line "Delete my account" and include the email address associated with your account.
+Alternatively, email [montmobile.legal@gmail.com](mailto:montmobile.legal@gmail.com) with the subject line "Delete my account" and include the email address associated with your account.
 
 ---
 
@@ -85,7 +85,7 @@ We may update this policy from time to time. We will notify you of significant c
 
 ## 10. Contact
 
-Questions about this privacy policy? Contact us at [aladminus@gmail.com](mailto:aladminus@gmail.com).
+Questions about this privacy policy? Contact us at [montmobile.legal@gmail.com](mailto:montmobile.legal@gmail.com).
 
 ---
 
