@@ -110,4 +110,4 @@ Questions about this privacy policy? Contact us at [montmobile.legal@gmail.com](
 
 ---
 
-*© 2026 MontMobile. All rights reserved.*
+*© 2026 Mont Mobile. All rights reserved.*

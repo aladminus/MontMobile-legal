@@ -2,7 +2,7 @@
 
 **TheFuel** · Last updated: September 23, 2026
 
-Please read these Terms of Service ("Terms") carefully before using TheFuel ("the app"), operated by MontMobile ("we", "our", or "us").
+Please read these Terms of Service ("Terms") carefully before using TheFuel ("the app"), operated by Mont Mobile ("we", "our", or "us").
 
 By using the app you agree to these Terms. If you do not agree, do not use the app.
 
@@ -78,7 +78,7 @@ The app is provided "as is" without warranties of any kind. We do not guarantee 
 
 ## 9. Limitation of Liability
 
-To the maximum extent permitted by law, MontMobile shall not be liable for any indirect, incidental, or consequential damages arising from your use of the app, including loss of data or decisions made based on estimates shown in the app.
+To the maximum extent permitted by law, Mont Mobile shall not be liable for any indirect, incidental, or consequential damages arising from your use of the app, including loss of data or decisions made based on estimates shown in the app.
 
 ---
 
@@ -112,4 +112,4 @@ Questions about these Terms? Contact us at [montmobile.legal@gmail.com](mailto:m
 
 ---
 
-*© 2026 MontMobile. All rights reserved.*
+*© 2026 Mont Mobile. All rights reserved.*
